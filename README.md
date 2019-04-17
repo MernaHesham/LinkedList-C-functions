@@ -25,7 +25,7 @@ prints all elements in the list
 #### inputs 
 refernce head of the first element of the list
 
-### dynamicAppednd.c
+### dynamicAppend.c
 adds a new node at the end of the list
 #### inputs 
 refernce head of the first element of the list
